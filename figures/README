@@ -1,1 +1,6 @@
-# This folder contains original image versus segmentation comparisons in order to visually assess segmentation quality and pipeline workflow. 
+# This folder contains original image versus segmentation comparisons in order to visually assess segmentation quality and pipeline workflow. Below are listed the respective files illustrative function:
+
+# preprocessing: - images from left to right illustrate the segmentation workflow
+#overlay: - direct comparison of segmentation and original microscopy image (grayscale)
+#crowded_nuclei: - exhibits a example image of dense nuclei clustering in the original image, and the performace of the pipeline 
+#Segmentation_pipeline_Flowchart : - flowchart of segmentation workflow for illustrative understanding 
