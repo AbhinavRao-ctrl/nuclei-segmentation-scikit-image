@@ -25,6 +25,14 @@ The images have shuffled color-masks for easier cell boundary differentiation
 <img width="11992" height="1997" alt="preprocessing" src="https://github.com/user-attachments/assets/8ba56b9a-89d4-4707-9b91-7b13c61d9197" />
 
 
+ ## Limitations: 
+ This pipeline was run on an intel i5 CORE CPU, which limited large scale image processing through the CPU-run scikit-image pipeline. 
+ Thus 60 different randomly selected images were used in evaluation. 
+ - Due to the limitations of classical segmentation pipeline, hardcoded morphological values found through  histogram analysis were used for optimum segmentation quality
+ - This segmentation pipeline can run well only on 2- dimensional images with somewhat defined objects with some intensity contrast from the background 
+ 
+
+
 
 
 
