@@ -10,8 +10,8 @@ The images have shuffled color-masks for easier cell boundary differentiation
 ### 1: Fragmented nuclei 
 <img width="6000" height="1800" alt="Segmentation_Example1" src="https://github.com/user-attachments/assets/8992ffdd-8727-4f41-b27b-c3cc1d52187a" />
 
-### 2: Separated cells 
-<img width="6000" height="1800" alt="Segmentation_Example4" src="https://github.com/user-attachments/assets/34690ab1-086e-4a8e-be99-4a51258bd13f" />
+### 2: Clustered Nuclei
+<img width="12110" height="2233" alt="crowded_nuclei" src="https://github.com/user-attachments/assets/1685b319-9532-4565-874c-98fb295baf76" />
 
 ## Overlay comparison to original Image 
 <img width="12117" height="2338" alt="overlay" src="https://github.com/user-attachments/assets/45464702-d72d-4164-b98c-a7c7337bf7ca" />
