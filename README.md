@@ -5,15 +5,15 @@ The pipeline uses scikit-image as the primary library for segmentation. Hardcode
 60 different images out of 200 in the BBBC039 dataset were randomly selected to evaluate pipeline consistency and segmentation metrics. These metrics include, Intersection Over Union, Dice Similarity Coefficient, Hausdorff distance and Panoptic Quality(PQ). 
 
 #### Libraries: 
-1. Python          : 3.12.13
-2. Pathlib         : Built-in (Standard Library)
-3. scikit-image    : 0.26.0
-4. stardist        : 0.9.2
-5. miseval         : 1.3.0
-6. numpy           : 2.4.6
-7. scipy           : 1.17.1
-8. matplotlib      : 3.11.0
-9. pandas          : 3.0.5
+- Python          : 3.12.13
+- Pathlib         : Built-in (Standard Library)
+- scikit-image    : 0.26.0
+- stardist        : 0.9.2
+- miseval         : 1.3.0
+- numpy           : 2.4.6
+- scipy           : 1.17.1
+- matplotlib      : 3.11.0
+- pandas          : 3.0.5
 
 ## Segmentation Examples
 The images have shuffled color-masks for easier cell boundary differentiation 
