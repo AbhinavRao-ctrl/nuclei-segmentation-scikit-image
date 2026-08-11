@@ -1,5 +1,13 @@
 # Nuclei-segmentation-scikit-image
 #### Classical nuclei segmentation and evaluation of microscopy images using scikit-image. 
+#### Libraries: 
+1. Scikit-image
+2. Stardist
+3. MIseval
+4. NumPy
+5. SciPy
+6. matplotlib
+7. Python
 
 The pipeline uses scikit-image as the primary library for segmentation. Hardcoded values from histogram analysis are used for image cleaning and segmentation, and are adjusted specifically for BBBC039 U2OS nuclei segmentations. The pipeline is only made for that datase
 60 different images out of 200 in the BBBC039 dataset were randomly selected to evaluate pipeline consistency and segmentation metrics. These metrics include, Intersection Over Union, Dice Similarity Coefficient, Hausdorff distance and Panoptic Quality(PQ). 
