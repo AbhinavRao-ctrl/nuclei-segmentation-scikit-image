@@ -6,13 +6,21 @@ The pipeline uses scikit-image as the primary library for segmentation. Hardcode
 
 #### Libraries: 
 Python          : 3.12.13
+
 Pathlib         : Built-in (Standard Library)
+
 scikit-image    : 0.26.0
+
 stardist        : 0.9.2
+
 miseval         : 1.3.0
+
 numpy           : 2.4.6
+
 scipy           : 1.17.1
+
 matplotlib      : 3.11.0
+
 pandas          : 3.0.5
 
 ## Segmentation Examples
